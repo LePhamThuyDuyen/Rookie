@@ -1,0 +1,12 @@
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\bin\Debug\net5.0\ShareModel.deps.json
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\bin\Debug\net5.0\ShareModel.dll
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\bin\Debug\net5.0\ref\ShareModel.dll
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\bin\Debug\net5.0\ShareModel.pdb
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.csprojAssemblyReference.cache
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.AssemblyInfoInputs.cache
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.AssemblyInfo.cs
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.csproj.CoreCompileInputs.cache
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.dll
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ref\ShareModel.dll
+C:\Users\Le Duyen\Desktop\MyProject\ShareModel\obj\Debug\net5.0\ShareModel.pdb
